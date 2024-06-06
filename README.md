@@ -1,5 +1,5 @@
 # gRPC Server
-A sample project to setup a gRPC Server
+A simple project to setup a gRPC Server using Go language
 
 ## Install Proto Compiler (protoc) on MacOS
 ```shell
